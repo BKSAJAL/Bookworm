@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "category": "Fantasy",
+    "description": "A fantasy novel about the journey of a hobbit named Bilbo Baggins.",
+    "rating": 4.8,
+    "image": "/src/assets/the-hobbit.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "category": "Fiction",
+    "description": "A dystopian novel about totalitarianism and surveillance.",
+    "rating": 4.6,
+    "image": "/src/assets/1984.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "category": "Non-Fiction",
+    "description": "A thought-provoking book on the evolution of humans.",
+    "rating": 4.5,
+    "image": "/src/assets/sapiens.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "category": "Sci-Fi",
+    "description": "An epic science fiction novel set on the desert planet Arrakis.",
+    "rating": 4.7,
+    "image": "/src/assets/dune.jpg"
+  },
+  {
+    "id": 5,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "category": "Fiction",
+    "description": "A classic novel about racial injustice in the Deep South.",
+    "rating": 4.9,
+    "image": "/src/assets/to-kill-a-mockingbird.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "category": "Sci-Fi",
+    "description": "A visionary sci-fi series about the fall and rise of civilizations.",
+    "rating": 4.6,
+    "image": "/src/assets/foundation.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "category": "Non-Fiction",
+    "description": "Explains evolutionary biology through the lens of gene-centered evolution.",
+    "rating": 4.3,
+    "image": "/src/assets/the-selfish-gene.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "category": "Romance",
+    "description": "A romantic novel that critiques the British landed gentry.",
+    "rating": 4.7,
+    "image": "/src/assets/pride-and-prejudice.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "category": "Sci-Fi",
+    "description": "A cyberpunk novel that pioneered ideas about cyberspace.",
+    "rating": 4.2,
+    "image": "/src/assets/neuromancer.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "category": "Biography",
+    "description": "The official biography of Apple co-founder Steve Jobs.",
+    "rating": 4.4,
+    "image": "/src/assets/steve-jobs.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "category": "Biography",
+    "description": "The memoir of former First Lady Michelle Obama.",
+    "rating": 4.8,
+    "image": "/src/assets/becoming.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "category": "Horror",
+    "description": "A gothic horror novel introducing Count Dracula.",
+    "rating": 4.1,
+    "image": "/src/assets/dracula.jpg"
+  },
+  {
+    "id": 13,
+    "title": "It",
+    "author": "Stephen King",
+    "category": "Horror",
+    "description": "A terrifying novel about a shape-shifting evil entity.",
+    "rating": 4.4,
+    "image": "/src/assets/it.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "category": "Thriller",
+    "description": "A thrilling mystery involving secret societies and symbology.",
+    "rating": 4.3,
+    "image": "/src/assets/the-da-vinci-code.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "category": "Thriller",
+    "description": "A psychological thriller about a missing woman and media frenzy.",
+    "rating": 4.1,
+    "image": "/src/assets/gone-girl.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "category": "History",
+    "description": "The diary of a Jewish girl hiding during the Holocaust.",
+    "rating": 4.7,
+    "image": "/src/assets/the-diary-of-a-young-girl.jpg"
+  },
+  {
+    "id": 17,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "category": "History",
+    "description": "An ancient Chinese military treatise on strategy and tactics.",
+    "rating": 4.2,
+    "image": "/src/assets/the-art-of-war.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Sherlock Holmes: The Complete Novels and Stories",
+    "author": "Arthur Conan Doyle",
+    "category": "Mystery",
+    "description": "Adventures of the world's most famous detective.",
+    "rating": 4.9,
+    "image": "/src/assets/sherlock-holmes-the-complete-novels-and-stories.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "category": "Mystery",
+    "description": "A journalist and hacker investigate a decades-old disappearance.",
+    "rating": 4.2,
+    "image": "/src/assets/the-girl-with-the-dragon-tattoo.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "category": "Romance",
+    "description": "A romantic and emotional journey of unexpected love.",
+    "rating": 4.5,
+    "image": "/src/assets/me-before-you.jpg"
+  }
+]
